@@ -1,4 +1,9 @@
 # portfolio-team
+# Members
+- 66160034 นางสาวอรอุมา อดิษะ
+- 66160118 นายชนันธร พุ่มพวง
+- 66160154 นางสาววิรากานต์ งามขำ
+- 66160155 นายวีรภัทร ทัพเจริญ
 ## git command used in this project
 - git checkout -b main
 - git checkout -b develop
