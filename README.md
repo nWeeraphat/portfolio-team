@@ -46,8 +46,8 @@
 - git add README.md
 - git commit -m "เพิ่มคำสั่ง git ที่ใช้ในโปรเจคนี้"
 - git checkout develop
-- git checkout feature/setup-hero
-- git checkout feature/about-skills
-- git checkout feature/projects
-- git checkout feature/contact-footer
+- git merge feature/setup-hero
+- git merge feature/about-skills
+- git merge feature/projects
+- git merge feature/contact-footer
 - git push origin develop
