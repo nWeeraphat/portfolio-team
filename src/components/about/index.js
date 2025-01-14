@@ -16,6 +16,7 @@ const about = `
         <span class="font-bold">เบอร์โทรศัพท์:</span> 088-888-8888 <br>
         <span class="font-bold">อีเมลล์:</span> 66160034@go.buu.ac.th <br>
         <span class="font-bold">ประวัติการศึกษา:</span><br>
+        - ระดับมัธยม โรงเรียนดัดดรุณี <br>
         - ระดับมหาวิทยาลัย  มหาวิทลัยบูรพา <br>
         <span class="font-bold">ประสบการณ์การทำงาน:</span><br>
         - สร้างโปรเจค การสร้างระบบฐานข้อมูล <br>
@@ -34,6 +35,7 @@ const about = `
         <span class="font-bold">เบอร์โทรศัพท์:</span> 098-834-5282 <br>
         <span class="font-bold">อีเมลล์:</span> 66160118@go.buu.ac.th <br>
         <span class="font-bold">ประวัติการศึกษา:</span><br>
+        - ระดับมัธยม  โรงเรียนท่าเรือ"นิตยานุกูล" <br>
         - ระดับมหาวิทยาลัย  มหาวิทลัยบูรพา <br>
         <span class="font-bold">ประสบการณ์การทำงาน:</span><br>
         - สร้างโปรเจค การสร้างระบบฐานข้อมูล <br> 
@@ -52,6 +54,7 @@ const about = `
         <span class="font-bold">เบอร์โทรศัพท์:</span> 099-1875655 <br>
         <span class="font-bold">อีเมลล์:</span> 66160118@go.buu.ac.th <br>
         <span class="font-bold">ประวัติการศึกษา:</span><br>
+        - ระดับมัธยม  โรงเรียนสัตหีบวิทยาคม" <br>
         - ระดับมหาวิทยาลัย  มหาวิทลัยบูรพา <br>
         <span class="font-bold">ประสบการณ์การทำงาน:</span><br>
         - สร้างโปรเจค การสร้างระบบฐานข้อมูล <br> 
@@ -70,6 +73,7 @@ const about = `
         <span class="font-bold">เบอร์โทรศัพท์:</span> 092-238-4396 <br>
         <span class="font-bold">อีเมลล์:</span> 66160118@go.buu.ac.th <br>
         <span class="font-bold">ประวัติการศึกษา:</span><br>
+        - ระดับมัธยม  โรงเรียน  เบญจมราชรังสฤษฎิ์" <br>
         - ระดับมหาวิทยาลัย  มหาวิทลัยบูรพา <br>
         <span class="font-bold">ประสบการณ์การทำงาน:</span><br>
         - สร้างโปรเจค การสร้างระบบฐานข้อมูล <br> 
