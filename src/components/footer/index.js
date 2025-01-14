@@ -42,10 +42,10 @@ function createFooter() {
   linksDiv.appendChild(linksTitle);
 
  const importantLinks = [
-    { text: 'Home', href: '#hero' },
-    { text: 'About', href: '#about' }, 
-    { text: 'Projects', href: '#projects' },
-    { text: 'Contact', href: '#contact' }, 
+    { text: 'Home', href: '/hero' },
+    { text: 'About', href: '/about' }, 
+    { text: 'Projects', href: '/projects' },
+    { text: 'Contact', href: '/contact' }, 
   ];
 
   importantLinks.forEach((link) => {
