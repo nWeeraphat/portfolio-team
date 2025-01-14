@@ -9,7 +9,7 @@ const hero = `
     <h1 class="text-3xl font-bold mb-2">Foliospace</h1> 
     <p class="text-gray-700 text-lg">Welcome to the team's portfolio website</p> 
     <div class="flex justify-center space-x-4 mt-6"> 
-      <a href="#" class="text-blue-500 hover:underline">GitHub</a>
+      <a href="https://github.com/nWeeraphat/portfolio-team.git" class="text-blue-500 hover:underline">GitHub</a>
     </div>
   </div>
 </section>
