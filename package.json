@@ -1,0 +1,10 @@
+{
+  "name": "portfolio-team",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npx tailwindcss build src/styles/main.css -o public/styles.css"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.0.0"
+  }
+}
