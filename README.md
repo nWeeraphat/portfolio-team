@@ -1,1 +1,53 @@
 # portfolio-team
+## git command used in this project
+- git checkout -b main
+- git checkout -b develop
+- git checkout -b feature/setup-hero
+- git checkout -b feature/about-skills
+- git checkout -b feature/projects
+- git checkout -b feature/contact-footer
+- git add .
+- git commit -m "เพิ่มโครงวสร้างพื้นฐานของ portfolio-team"
+- git add index.html
+- git add src/index.html
+- git commit -m "เพิ่มโครงสร้าง HTML พื้นฐาน "
+- git add package.json
+- git commit -m "เพิ่มข้อมูลใน package.json"
+- git add .
+- git commit -m "feat: เพิ่ม navbar" 
+- git add .
+- git commit -m "feat: เพิ่ม hero" 
+- git add .
+- git commit -m "feat: เพิ่ม about"
+- git add .
+- git commit -m "feat: เพิ่ม skills"
+- git add .
+- git commit -m "feat: เพิ่ม projects"
+- git add .
+- git commit -m "feat: เพิ่ม contact"
+- git add .
+- git commit -m "feat: เพิ่ม footer"
+- git add .
+- git commit -m "feat: เพิ่ม styles/main .css"
+- git add .
+- git commit -m "feat: เพิ่ม images" 
+- git add .
+- git commit -m "docs: เพิ่มข้อมูลใน about"
+- git add .
+- git commit -m "docs: เพิ่มข้อมูลใน skills"
+- git add .
+- git commit -m "docs: เพิ่ม link github" 
+- git add .
+- git commit -m "fix: แก้บัค link github กดไม่ได้ในหน้า hero"
+- git add .
+- git commit -m "docs: เพิ่ม links สำคัญใน footer"
+- git add .
+- git commit -m "fix: แก้บัค link สำคัญในหน้า footer ให้ลิงค์ไปเมนูต่างๆได้"
+- git add README.md
+- git commit -m "เพิ่มคำสั่ง git ที่ใช้ในโปรเจคนี้"
+- git checkout develop
+- git checkout feature/setup-hero
+- git checkout feature/about-skills
+- git checkout feature/projects
+- git checkout feature/contact-footer
+- git push origin develop
